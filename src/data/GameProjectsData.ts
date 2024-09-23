@@ -124,7 +124,7 @@ export default [
     </div>
 
     <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/qxPhcW4SwL4?si=-pmc2nYbA5K3H7P3&amp;start=979" frameborder="0 allowfullscreen></iframe>
+        <iframe class="youtube" src="https://www.youtube.com/embed/qxPhcW4SwL4?si=-pmc2nYbA5K3H7P3&amp;start=979" frameborder="0" allowfullscreen></iframe>
     </div>
 
     <div class="paragraph">
