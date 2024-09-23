@@ -9,7 +9,7 @@ export default [
         <br/>Blog about the game can be found <a href="https://mirrativtmbr.tumblr.com/im1Zo3AH9G_636" target="_blank">here</a> and <a href="https://x.com/mirrativ_jp/status/1607617288005652480" target="_blank">here</a>.
     </div>
     <div class="paragraph center">
-        <iframe width="300" height="600" src="https://www.youtube.com/embed/p-H91uiwRTo?si=tZUoZAaKF2j4d28y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe class="youtube" src="https://www.youtube.com/embed/p-H91uiwRTo?si=tZUoZAaKF2j4d28y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
     <div class="paragraph">
@@ -124,7 +124,7 @@ export default [
     </div>
 
     <div class="paragraph center">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/qxPhcW4SwL4?si=-pmc2nYbA5K3H7P3&amp;start=979" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe class="youtube" src="https://www.youtube.com/embed/qxPhcW4SwL4?si=-pmc2nYbA5K3H7P3&amp;start=979" frameborder="0 allowfullscreen></iframe>
     </div>
 
     <div class="paragraph">
@@ -193,7 +193,7 @@ export default [
         <br/><a target="_blank" href="https://www.facebook.com/starmathsonlinevietnam/">https://www.facebook.com/starmathsonlinevietnam/</a>.
     </div>
     <div class="paragraph center">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/8x8bKDf-I8o?si=P28J8FuFbXJIOQoi" title="Star Maths Online Student" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe class="youtube" src="https://www.youtube.com/embed/8x8bKDf-I8o?si=P28J8FuFbXJIOQoi" title="Star Maths Online Student" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
     <div class="paragraph">
